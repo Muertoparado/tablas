@@ -1,0 +1,34 @@
+
+html {
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+  }
+th,td{
+    border: solid 5px rgb(137, 139, 131);
+    border-radius: 20px
+    
+    
+}
+.table{
+    border: solid 2px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 20px;
+    border: solid 5px rgb(37, 37, 35);
+    
+}
+.tl2{
+    background-color: rgb(113, 173, 230);
+    color: rgb(30, 12, 196);
+    
+
+}
+th{
+    background-color:rgb(143, 122, 132);
+    color:aquamarine;
+
+}
+tfoot{
+    background-color: rgb(36, 67, 75);
+    color: azure;
+    
+}
